@@ -1,0 +1,7 @@
+Software Development skills: Mobile
+
+Jesper Andersson, ÅA Student number: 2000856
+
+LEARING DIARY Mobile Module
+15.09.2023
+I set up a new git repository for this course, I am semi-familliar with git since I use it in all my personal projects. I downloaded BitBucket and set up a workspace there, I am not familiar with BitBucket so time will tell if I'll use it or not. I understand the focus of the course and I'm exited to start with mobile software development. I am using VSCode because I'm most familiar with it, I've used it for Unity game dev and projects in RUST. I might move this diary to another format, because a simple text document is very boring and I might want to include pictures at some point. 
